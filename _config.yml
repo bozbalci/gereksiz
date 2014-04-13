@@ -1,3 +1,8 @@
 name: "Gereksiz"
 markdown: redcarpet
 pygments: true
+
+# Information for the Atom feed
+gereksiz:
+   author: "John Doe"
+   email: "john.doe@mail.sexy"
