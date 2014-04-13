@@ -1,6 +1,7 @@
 name: "Gereksiz"
 markdown: redcarpet
 pygments: true
+permalink: /:title
 
 # Information for the Atom feed
 gereksiz:
