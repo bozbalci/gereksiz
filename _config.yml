@@ -1,7 +1,8 @@
 name: "Gereksiz"
 markdown: redcarpet
 pygments: true
-permalink: /:title
+permalink: :title
+exclude: [README.md, LICENSE, Makefile]
 
 # Information for the Atom feed
 gereksiz:
