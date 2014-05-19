@@ -1,6 +1,6 @@
 name: "Gereksiz"
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 permalink: :title
 exclude: [README.md, LICENSE, Makefile]
 
