@@ -9,7 +9,5 @@ Gereksiz is the Turkish word for "unnecessary".
 ## Gereksiz on the Internet
 
 * [Gereksiz][github] on GitHub
-* [Bugs of Berk][bob], theme creator's website
 
 [github]: https://github.com/berkoz/gereksiz/
-[bob]: http://bugsofberk.net
